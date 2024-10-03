@@ -1,0 +1,40 @@
+;plot ANSI B (17.00 x 11.00 Inches) to PDF
+PLOT
+;Detailed plot configuration? [Yes/No] <No>: 
+Yes
+;Enter a layout name or [?] <Model>: 
+Layout1
+;Enter an output device name or [?] <JR.pc3>: 
+DWG To PDF.pc3
+;Enter paper size or [?] <ANSI expand B (17.00 x 11.00 Inches)>: 
+ANSI expand B (17.00 x 11.00 Inches)
+;Enter paper units [Inches/Millimeters] <Inches>: 
+Inches
+;Enter drawing orientation [Portrait/Landscape] <Portrait>: 
+Landscape
+;Plot upside down? [Yes/No] <No>:
+No
+;Enter plot area [Display/Extents/Layout/View/Window] <Extents>:
+Extents
+;Enter plot area [Display/Extents/Layout/View/Window] <Extents>:
+Fit
+;Enter plot offset (x,y) or [Center] <Center>:
+Center
+;Plot with plot styles? [Yes/No] <Yes>:
+Yes
+;Enter plot style table name or [?] (enter . for none) <monochrome.ctb>:
+monochrome.ctb
+;Plot with lineweights? [Yes/No] <No>:
+Yes
+;Scale lineweights with plot scale? [Yes/No] <No>:
+No
+;Plot paper space first? [Yes/No] <No>:
+No
+;Hide paperspace objects? [Yes/No] <No>:
+No
+;Enter file name example <C:\Users\...abc.pdf>: or leave blank to save as the filename-Layout1 
+
+;Save changes to page setup [Yes/No]?
+No
+;Proceed with plot [Yes/No] <Y>:
+Yes
